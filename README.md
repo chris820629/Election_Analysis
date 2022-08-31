@@ -9,7 +9,7 @@ Objectives:
 4. Calcualte each candidate's percentage of vote
 5. Find the election winner, its percentage, and the corresponding vote count
 
-## Reouses 
+## Resourses 
 - Data Course: election_result.csv 
 - Software: Python3 with Visual Studio 
 
